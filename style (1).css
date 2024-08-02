@@ -4,5 +4,6 @@ header{
 }
 
 .cabesalho-imagem{
-   width: 20%;
+   background-color: black ;
+   color: white;
 }
